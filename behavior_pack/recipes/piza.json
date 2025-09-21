@@ -1,0 +1,20 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "mc:craft_piza"
+    },
+    "tags": ["crafting_table"],
+    "ingredients": [
+      { "item": "minecraft:bread" },
+      { "item": "minecraft:bread" },
+      { "item": "minecraft:bread" },
+      { "item": "minecraft:apple" },   
+      { "item": "minecraft:milk_bucket" } 
+    ],
+    "result": {
+      "item": "mc:piza",
+      "count": 1
+    }
+  }
+}
