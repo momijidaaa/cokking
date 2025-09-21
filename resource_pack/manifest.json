@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "食料追加アドオン",
+    "description": "食料を追加します",
+    "uuid": "79d0e07f-d964-4ec5-b25f-6ba3f3342ffe",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Resources",
+      "type": "resources",
+      "uuid": "ad274ac2-4799-47af-8bc8-08d56b7a9a21",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "c48a1133-d74e-4a5d-87f3-bd1a43aa23dc",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
