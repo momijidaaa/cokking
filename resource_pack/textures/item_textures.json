@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "MyAddonRP",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "piza": {
+      "textures": "textures/items/piza"
+    }
+  }
+}
